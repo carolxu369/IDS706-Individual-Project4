@@ -33,7 +33,7 @@ This project features a web-based text summarization application built with Flas
    python app.py
    ```
 
-   The app will be available at `http://10.197.11.175:5001/ ` on your local machine (or the address revealed in your terminal window). Make sure port 5001 is not in use.
+   The app will be available at **the address revealed in your terminal window** on your local machine. Make sure port 5001 is not in use.
 
 ### App Function
 
@@ -70,9 +70,9 @@ This project features a web-based text summarization application built with Flas
 
 ### Deploy to Azure Web App
 
-I also successfully deployed my container via Azure Web App to a public endpoint, where you can access through `http://127.0.0.1:5001/`. 
+I also successfully deployed my container via Azure Web App to a public endpoint. Here is the Azure Web App.
 
-![dockerhub](./img/dockerhub.png)
+![azure](./img/azure.png)
 
 ## Conclusion and Recommendations
 
@@ -85,3 +85,5 @@ The text summarization app can significantly enhance productivity by enabling qu
 3. **Feedback Loop**: Establish a feedback mechanism to continuously improve the summarization quality based on user experiences.
 4. **Scalability**: As usage grows, consider scaling the app using Azure's auto-scaling features to maintain performance.
 5. **Security**: Ensure all text processed by the app is handled securely, especially if sensitive data is involved.
+
+
