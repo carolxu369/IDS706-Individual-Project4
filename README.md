@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project features a web-based text summarization application built with Flask. The app leverages a pre-trained model from Hugging Face's `transformers` library to generate concise summaries of input text. This is particularly useful for distilling information from lengthy documents, making them more manageable for quick reads.
+This project features a web-based text summarization application built with Flask. The app leverages a pre-trained model from Hugging Face's `transformers` library to generate concise summaries of input text. This is particularly useful for distilling information from lengthy documents, making them more manageable for quick reads. This is the link for [video](https://drive.google.com/file/d/1uIj1IX5IZWEc_84erXzeaaU4-hd2LtQD/view?usp=sharing).
 
 ## Dependencies
 
